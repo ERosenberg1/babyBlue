@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/be134432122230790c0a184cb45de81a7be2c5df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_8d9f724eff071757d39a64ca1ad0623587cbf113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/f594b12c9387cd89872b7e8baf50ee6a49abd8a3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_35da7f2e8b042b8225e0b2b683b6189700b8a1ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/9a63907bbc3763fe76bb19054f14082f5405b7c6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_5d72266c92c401ea8130fa447ad25a42b05813c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/Desktop/babyBlue/app/libs/GraphView-4.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3626a38455159707e355da96a61e598fbbc049e9">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/GraphView-4.2.1_db03ff69f13a07a091c209e1addecd5cb0e4146c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_d04e889274a81e593a1495d94199444aab5d7d58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/2e131929ead594e35e6a56f3f1763e8d9df2a18e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_f2a74aec37fda0789e3e5888dd0a9318d86419f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/f427dc110f64a475ae45ee3a86071ae2655bdd66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_2d1c7c23a2269a47cd47d2269c51a9aeacffcd9d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/a26fec3a49333c55c501eb457bb0951372e6000a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_bdfdff430243bb72155d620561a69c12bda1852a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/49e05653fb64d7cdf54eacdcd269863d85042a92/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_336e21b158f9193bd769f58ed2b186fde5acc26b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/ba04a2fec0f58e0f8da2685b20248e73b94bd3fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_5b9e5103bf29f89b37d3c130d4f0d6096ef15acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/8c2d0320dd9d9f465ae1aa0717036d171977f24b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_3108ead708bee62dc3426b2f6d1bca9efa866cd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/ab6c75cde403bea9d4ee2ac32f06b01c82a24fd1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_1ee4bd00de3d4a2916bcaa52f55b07293f34fe83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="977d57354ef7ef4faa604b802d4907728e0db889">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.0-alpha3_0f3b96a50eced4ea4d37c7e19155888dc900316a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/e6c2d4fe4904c497edd728bf54a7f81c874d1109/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_ce40b2d1281ced68f6db229833a537b88070f087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/5d724ef4932ac4c7b19daf177f07f4009f88a37e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_3f6d82c1483527f31b4636323af07fe838bdcacd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Colby/.android/build-cache/b00f28e7177b8b73f629ea44639b4e7b5edadbc9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/Colby/Desktop/babyBlue/app/build/intermediates/pre-dexed/debug/classes_2a2d2e92e2065feebdf444c8f5de632fcc80723a.jar" />
+    </item>
+
+</items>

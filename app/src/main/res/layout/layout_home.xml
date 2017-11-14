@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="nametbd.babyblue.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        tools:context="nametbd.babyblue.MainActivity"
+        tools:layout_editor_absoluteY="8dp"
+        tools:layout_editor_absoluteX="8dp">
+
+        <Button
+            android:id="@+id/Room101"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:padding="8dp"
+            android:text="Room Number 123"/>
+
+        <TextView
+            android:id="@+id/PatientName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:padding="8dp"
+            android:text="Tob Bopp"/>
+        <!--Pulse BUTTON-->
+        <Button
+            android:id="@+id/Pulse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/RoomNumber"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="16dp"
+            android:text="Pulse"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="16dp"
+            android:layout_below="@+id/Pulse"
+            android:id="@+id/PulseVal"/>
+
+        <!--Temperature-->
+        <Button
+            android:id="@+id/Temperature"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/PatientName"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="16dp"
+            android:text="Temperature"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="16dp"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/Temperature"
+            android:id="@+id/TempVal"/>
+        <!--Systolic Pressure-->
+        <Button
+            android:id="@+id/SysPressure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/PulseVal"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="16dp"
+            android:text="Pressure (S)"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/PressVal1"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="16dp"
+            android:layout_below="@+id/SysPressure"
+            />
+        <!--Diastolic Pressure-->
+        <Button
+            android:id="@+id/DiaPressure"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/TempVal"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="16dp"
+            android:text="Pressure (D)"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/DiaPressure"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="16dp"
+            android:id="@+id/PressVal2"/>
+
+        <!--O2 Levels-->
+        <Button
+            android:id="@+id/o2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/PressVal1"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="16dp"
+            android:text="O2"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/o2"
+            android:id="@+id/o2val"
+            android:layout_marginLeft="30dp"
+            android:layout_marginTop="16dp"
+            />
+        <!--Respiration Rate-->
+        <Button
+            android:id="@+id/Respiration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/PressVal2"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="16dp"
+            android:text="Respiration"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/Respiration"
+            android:id="@+id/RespVal"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="16dp"
+            />
+        <Button
+            android:id="@+id/IV2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:text="IV 2 Flow Rate"
+            />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/IV2"
+            android:text="IV 1 Flow Rate"
+            android:id="@+id/IV1"
+            />
+        <Button
+            android:id="@+id/start"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/IV1"
+            android:layout_marginBottom="10dp"
+            android:text="Start Example"
+            android:layout_centerInParent="true"/>
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/NO NAME/babyBlue/C:\\Users\\antho\\AndroidStudioProjects\\babyBlue\\babyBlue\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "/Volumes/NO NAME/babyBlue/C:\\Users\\antho\\AndroidStudioProjects\\babyBlue\\babyBlue\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "/Volumes/NO NAME/babyBlue/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Volumes/NO NAME/babyBlue/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/Colby/Desktop/babyBlue/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/Colby/Desktop/babyBlue/app/src/main/res/menu/menu_main.xml"
+    }
+]

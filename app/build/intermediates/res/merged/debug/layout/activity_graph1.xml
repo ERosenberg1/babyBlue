@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="nametbd.babyblue.Graph1">
+
+    <com.jjoe64.graphview.GraphView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/PressureGraph"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="seconds"
+        android:layout_below="@id/PressureGraph"
+        android:id="@+id/seconds"
+        android:paddingTop="10dp"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/seconds"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/secondsval"/>
+
+    <Button
+        android:id="@+id/start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/secondsval"
+        android:layout_marginTop="11dp"
+        android:layout_toEndOf="@+id/secondsval"
+        android:layout_toRightOf="@+id/secondsval"
+        android:text="click meh" />
+
+
+
+
+</RelativeLayout>
